@@ -63,5 +63,5 @@ def main():
     setup()
     loop()
 
-if _name_ == "main":
+if __name__ == "main":
     main()
